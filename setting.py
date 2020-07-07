@@ -1,5 +1,5 @@
 # Defined mail receivers
-mail_notice_observers = ['noel_chiang@friday.tw']
+mail_notice_observers = ['receiver@mail.com']
 # Defined chart folder
 chart_resource_folder = 'charts/'
 # Defined chart output path

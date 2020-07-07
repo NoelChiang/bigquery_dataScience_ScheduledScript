@@ -15,7 +15,7 @@ port = 465
 smtp_server = "smtp.gmail.com"  
 
 # Sender's mail address and password
-sender = "dev.noel.c@gmail.com"
+sender = "mymail@mail.com"
 password = "******"
 
 # Create MIME message object
