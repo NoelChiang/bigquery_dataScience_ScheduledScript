@@ -16,7 +16,7 @@ smtp_server = "smtp.gmail.com"
 
 # Sender's mail address and password
 sender = "dev.noel.c@gmail.com"
-password = "deve10p.noe1"
+password = "******"
 
 # Create MIME message object
 # Add Subject, From, To information
